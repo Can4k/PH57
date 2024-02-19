@@ -1,19 +1,17 @@
-# photo57
+![](src/example/screencast.png)
 
-## Project setup
-```
-npm install
-```
+## Описание работы
+- / - галерея фотокарточек.
+- /result - результаты (подсчет голосов).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+При нажатии кнопки **Войти** сверху слева, можно осуществить вход на сайт для дальшейнешего голосования за фотографию.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## **Технический стек**
+- VueJS 3.0 (Composition API)
+- Vuex
+- Vue Router
+- Axios
+- PrimeVue
+- Google Oauth 2.0
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Рабочая версия](https://photovote.is57.ru)
